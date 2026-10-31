@@ -1,0 +1,30 @@
+title WITCH'S TREAT CLEAR
+tempo 140
+mode famicom
+instrument 0 lead @1 q7 @v0 ~10,8,20
+instrument 1 arp @2 q6 @v17
+part 0 @i0 v12
+part 1 @i1 v6
+part 2 q6
+part 3
+
+bar 1
+  0: @i0 v12 o4 d16 f+16 a16 >d16 <f+16 a16 >d16 f+16 <a16 >d16 f+16 a16 @p8 f+4 @p
+  1: @i1 o3 [d16 f+16 a16 >d16 <]4
+  2: q6 o2 [d8 >d8 <]4
+  3: v8 @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 @v2 f16 f16 f16 @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 c+16 c+16 c+16
+  4: c4 d4 c4 d16 d16 d16 d16
+
+bar 2
+  0: o5 d8 r8 d8 r8 c+8 r8 c+8 e8
+  1: o4 b8 r8 b8 r8 a8 r8 a8 a8
+  2: o2 g8 r8 g8 r8 a8 r8 a8 a8
+  3: @v21 o5 c8 r8 c8 r8 @v3 c+8 r8 c+8 c+8
+  4: c8 r8 c8 r8 b8 r8 b8 b8
+
+bar 3
+  0: o5 @p8 d2. @p r4
+  1: o4 f+2. r4
+  2: o2 d2. r4
+  3: @v21 o5 c2. r4
+  4: c4 r2.

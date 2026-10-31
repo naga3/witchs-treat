@@ -1,0 +1,4 @@
+{
+  "after": "node tools/audio.mjs",
+  "cwd": ".."
+}

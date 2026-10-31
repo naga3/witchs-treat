@@ -1,0 +1,95 @@
+GIMP Palette
+Name: witchs-treat
+Columns: 8
+#
+ 16  12  20	ink
+ 28  22  34	night1
+ 42  33  51	night2
+ 61  46  69	night3
+ 84  64  90	night4
+ 60  90 106	slate
+138 119 135	mauve
+111  90 110	dusk
+179 162 166	lilac
+ 90  44  30	rust
+122  42  50	wine
+156  74  36	brown
+210 122  50	orange
+232 172  82	amber
+240 212 138	cream
+244 236 216	paper
+ 46  59  44	moss1
+ 79 106  64	moss2
+134 160  90	moss3
+192  84  78	red
+217 144 140	rose
+227 214 196	sand
+168 196 188	mint
+106  74  46	wood
+156 122  82	tan
+111 152 160	teal
+# alias: 古い名前（64 色の頃）→ 今の名前。ゲーム（game.js）と下書き（tools/draft.mjs）が読む
+# alias black ink
+# alias ink ink
+# alias nt1 night1
+# alias nt2 night2
+# alias nt3 night2
+# alias nt4 night3
+# alias nt5 night4
+# alias sk1 night2
+# alias sk2 night3
+# alias sk3 slate
+# alias fg1 slate
+# alias fg2 mauve
+# alias pu1 night3
+# alias pu2 night4
+# alias pu3 dusk
+# alias pu4 mauve
+# alias pu5 lilac
+# alias or0 rust
+# alias or1 wine
+# alias or2 brown
+# alias or3 orange
+# alias or4 amber
+# alias or5 cream
+# alias ye1 amber
+# alias ye2 cream
+# alias ye3 cream
+# alias ye4 paper
+# alias gr0 moss1
+# alias gr1 moss1
+# alias gr2 moss2
+# alias gr3 moss3
+# alias gr4 cream
+# alias gr5 cream
+# alias rd0 rust
+# alias rd1 wine
+# alias rd2 red
+# alias rd3 red
+# alias pk1 rose
+# alias pk2 sand
+# alias pk3 paper
+# alias cy1 slate
+# alias cy2 mint
+# alias cy3 paper
+# alias gy1 night2
+# alias gy2 night4
+# alias gy3 dusk
+# alias gy4 lilac
+# alias gy5 sand
+# alias white paper
+# alias br0 night1
+# alias br1 rust
+# alias br2 wood
+# alias br3 tan
+# alias br4 amber
+# alias sn1 tan
+# alias sn2 rose
+# alias sn3 sand
+# alias bn1 tan
+# alias bn2 mint
+# alias bn3 paper
+# alias tl1 moss1
+# alias tl2 teal
+# alias tl3 mint
+# alias mg rose

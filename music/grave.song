@@ -1,0 +1,122 @@
+title WITCH'S TREAT GRAVEYARD
+tempo 116
+mode famicom
+instrument 0 lead @0 q7 @v0 ~14,10,24
+instrument 1 echo @0 q7 @v0 V5
+instrument 2 bell @0 q8 @v7 V9
+part 0 v12
+part 1 v12
+part 2 q7
+part 3
+
+bar 1 I
+  0: @i0 v12 o4 e8 r8 b8 r8 a+8 b8 r8 g8
+  1: @i2 o4 r8 g8 r8 g8 r8 f+8 r8 f+8
+  2: q4 o2 e4 b4 d+4 b4
+  3: @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8 @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8
+  4: c4 d4 c4 d4
+
+bar 2
+  0: o4 f+8 g8 a+8 b8 >c4 <b4
+  1: o4 r8 f8 r8 f8 r8 e8 r8 e8
+  2: o2 d4 a4 c+4 a+4
+  3: @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8 @v4 o4 g8 @v3 o5 c+16 c+16 c+16 c+16 c+8
+  4: c4 d4 c4 d8 d8
+
+bar 3 A
+  0: o4 e8 r8 g8 b8 r8 a+8 b8 r8
+  1: o4 r8 g8 r8 g8 r8 f+8 r8 f+8
+  2: o2 e4 b4 d+4 b4
+  3: @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8 @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8
+  4: c4 d4 c4 d4
+
+bar 4
+  0: o5 d8 r8 c8 <b8 r8 a+8 g8 r8
+  1: o4 r8 f8 r8 f8 r8 e8 r8 e8
+  2: o2 d4 a4 c+4 a+4
+  3: @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v4 o4 g8 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8
+  4: c4 d4 c8 c8 d4
+
+bar 5
+  0: o4 e8 r8 g8 >c8 r8 <b8 a8 r8
+  1: o4 r8 g8 r8 g8 r8 f+8 r8 f+8
+  2: o2 c4 g4 b4 f+4
+  3: @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8 @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8
+  4: c4 d4 c4 d4
+
+bar 6
+  0: o4 f+8 r8 a8 b8 >d+4 r4
+  1: o4 r8 f+8 r8 f+8 r8 a8 r8 a8
+  2: o2 b4 f+4 d+4 f+4
+  3: @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8 @v4 o4 g8 @v3 o5 c+16 c+16 c+16 c+16 c+8
+  4: c4 d4 c4 d8 d8
+
+bar 7
+  0: o4 e8 r8 g8 b8 r8 >e8 d+8 r8
+  1: o4 r8 g8 r8 g8 r8 f+8 r8 f+8
+  2: o2 e4 b4 d+4 b4
+  3: @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8 @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8
+  4: c4 d4 c4 d4
+
+bar 8
+  0: o5 e8 r8 d8 c8 r8 <b8 a+8 b8
+  1: o4 r8 e8 r8 e8 r8 d+8 r8 d+8
+  2: o2 c4 g4 b4 f+4
+  3: @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v4 o4 g8 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8
+  4: c4 d4 c8 c8 d4
+
+bar 9
+  0: o4 a8 r8 >c8 e8 r8 d8 c8 r8
+  1: o4 r8 e8 r8 e8 r8 e8 r8 e8
+  2: o2 a4 e4 c4 g4
+  3: @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8 @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8
+  4: c4 d4 c4 d4
+
+bar 10
+  0: o4 b8 a+8 b8 r8 e4 b8 >d+8
+  1: o4 r8 d+8 r8 d+8 r8 g8 r8 g8
+  2: o2 b4 f+4 e4 b4
+  3: @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8 @v3 o5 c+16 c+16 c+16 c+16 c+16 c+16 c+16 c+16
+  4: c4 d4 d8 d8 b8 b8
+
+bar 11 B
+  0: o5 f+4. e8 @p8 d+2 @p
+  1: @i1 r8 o5 f+4. e8 d+4.
+  2: o2 c4 g4 b4 f+4
+  3: @v21 o5 c8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8
+  4: c4 b4 c4 b4
+
+bar 12
+  0: o5 d4. c8 @p8 <a2 @p
+  1: o5 d+8 d4. c8 <a4.
+  2: o2 a4 e4 d4 a4
+  3: @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8
+  4: c4 b4 c4 b4
+
+bar 13
+  0: o4 a4. g8 @p8 b2 @p
+  1: o4 a8 a4. g8 b4.
+  2: o2 e4 b4 g4 d4
+  3: @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8
+  4: c4 b4 c4 b4
+
+bar 14
+  0: o5 c4 <b4 @p8 >d+2 @p
+  1: o4 b8 >c4 <b4 >d+4.
+  2: o2 b4 f+4 b4 f+4
+  3: @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8
+  4: c4 b4 c8 c8 b4
+
+bar 15
+  0: o5 e8 r8 d8 c8 r8 <a8 >c8 e8
+  1: o5 d+8 e8 r8 d8 c8 r8 <a8 >c8
+  2: o2 a4 e4 c4 g4
+  3: @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8 @v4 o4 g8 @v3 o5 c+8
+  4: c4 b4 c4 b4
+
+bar 16
+  0: o4 b8 r8 f+8 a8 r8 b8 a+8 r8
+  1: o5 e8 <b8 r8 f+8 a8 r8 b8 a+8
+  2: o2 b4 f+4 d+4 f+4
+  3: @v4 o4 g8 @v2 o6 c8 @v3 o5 c+8 @v2 o6 c8 @v4 o4 g8 @v3 o5 c+16 c+16 c+16 c+16 c+8
+  4: c4 b4 c4 b8 b8

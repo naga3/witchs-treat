@@ -1,0 +1,115 @@
+# 大きなゴースト（中ボス 24×24）。お菓子をたくさん食べないと満足しない。その場所のザコを呼ぶ。仲間になると、8 方向にチョコを投げる
+title bigghost
+palette witchs-treat
+color 0 0
+color 8 8
+color a 10
+color f 15
+color j 19
+color k 20
+color l 21
+anim move move1:200 move2:200
+
+pic move1 24 24 "動き 1"
+  ........................
+  .........ffffff.........
+  .......ffffffffl8.......
+  .....ffffffffffffl8.....
+  ....ffffffffffffffl8....
+  ...ffffffffffffffffl8...
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  .ffffffffffffffffffffl8.
+  .ffffff00ffff00ffffffl8.
+  .ffffff00ffff00ffffffl8.
+  .ffffff00ffff00ffffffl8.
+  .ffffkkfffaafffkkffffl8.
+  .ffffkkffffffffkkffffl8.
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..fffffllfffffllffffl8..
+  ..fffl8..fffl8..ffffl8..
+  ...fffl8..fffl8..ffffl8.
+  ....l888...l888....l888.
+
+pic move2 24 24 "動き 2"
+  ........................
+  .........ffffff.........
+  .......ffffffffl8.......
+  .....ffffffffffffl8.....
+  ....ffffffffffffffl8....
+  ...ffffffffffffffffl8...
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  .ffffffffffffffffffffl8.
+  .ffffff00ffff00ffffffl8.
+  .ffffff00ffff00ffffffl8.
+  .ffffff00ffff00ffffffl8.
+  .ffffkkfffaafffkkffffl8.
+  .ffffkkffffffffkkffffl8.
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..fffffllfffffllffffl8..
+  ..fffl8..fffl8..ffffl8..
+  ...fffl8..fffl8..ffffl8.
+  ...l888...l888....l888..
+
+pic eat 24 24 "お菓子を食べている（満足した直後）"
+  ........................
+  .........ffffff.........
+  .......ffffffffl8.......
+  .....ffffffffffffl8.....
+  ....ffffffffffffffl8....
+  ...ffffffffffffffffl8...
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  .ffffffffffffffffffffl8.
+  .ffffff00ffff00ffffffl8.
+  .ffffff00ffff00ffffffl8.
+  .ffffff00ffff00ffffffl8.
+  .ffffkkffaaaaffkkffffl8.
+  .ffffkkffajjaffkkffffl8.
+  ..ffffffffaaffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..fffffllfffffllffffl8..
+  ..fffl8..fffl8..ffffl8..
+  ...fffl8..fffl8..ffffl8.
+  ....l888...l888....l888.
+
+pic happy 24 24 "満足した（シャボン玉に入って上っていく。さわると仲間。ゲームが半透明にする）"
+  ........................
+  .........ffffff.........
+  .......ffffffffl8.......
+  .....ffffffffffffl8.....
+  ....ffffffffffffffl8....
+  ...ffffffffffffffffl8...
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  .ffffffffffffffffffffl8.
+  .ffffff00ffff00ffffffl8.
+  .fffff0ff0ff0ff0fffffl8.
+  .fffff0ff0ff0ff0fffffl8.
+  .ffffkkffaffaffkkffffl8.
+  .ffffkkfffaafffkkffffl8.
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..ffffffffffffffffffl8..
+  ..fffffllfffffllffffl8..
+  ..fffl8..fffl8..ffffl8..
+  ...fffl8..fffl8..ffffl8.
+  ....l888...l888....l888.

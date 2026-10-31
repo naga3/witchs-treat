@@ -1,0 +1,65 @@
+title WITCH'S TREAT BOSS
+tempo 168
+mode famicom
+instrument 0 lead @1 q7 @v0 ~10,8,20
+instrument 1 arp @2 q6 @v17
+part 0 @i0 v12
+part 1 @i1 v6
+part 2 q6
+part 3
+
+bar 1 A
+  0: @i0 v12 o4 a8 a8 >c8 <a8 >d+8 <a8 >e8 <a8
+  1: @i1 v6 @v7 o4 [c8 e8]4
+  2: q7 o2 a8 a8 a8 a8 a8 a8 a8 a8
+  3: v9 @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 @v2 f16 @v4 o4 g16 @v2 o5 f16 @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 @v2 f16 f16 f16
+  4: c8 r8 d8 c8 c8 c8 d8 r8
+
+bar 2
+  0: o4 a8 a8 >c8 <a8 >f8 e8 d+8 e8
+  1: o4 [c8 e8]2 [d8 f8]2
+  2: o2 a8 a8 a8 a8 f8 f8 e8 e8
+  3: @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 @v2 f16 @v4 o4 g16 @v2 o5 f16 @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 c+16 c+16 c+16
+  4: c8 r8 d8 c8 c8 c8 d16 d16 d16 d16
+
+bar 3
+  0: o4 f8 a8 >c8 f8 e4 c4
+  1: o4 [c8 f8]4
+  2: o2 f8 f8 f8 f8 f8 f8 f8 f8
+  3: @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 @v2 f16 @v4 o4 g16 @v2 o5 f16 @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 @v2 f16 f16 f16
+  4: c8 r8 d8 c8 c8 c8 d8 r8
+
+bar 4
+  0: o4 b8 g+8 e8 g+8 b2
+  1: o4 [d8 g+8]4
+  2: o2 e8 e8 e8 e8 e8 e8 e8 e8
+  3: @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 @v2 f16 @v4 o4 g16 @v2 o5 f16 @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 c+16 c+16 c+16
+  4: c8 r8 d8 c8 c8 c8 d16 d16 d16 d16
+
+bar 5
+  0: o5 c8 <b8 a8 g+8 a4 e4
+  1: o4 [c8 e8]4
+  2: o2 a8 a8 a8 a8 a8 a8 a8 a8
+  3: @v21 o5 c8 @v2 o5 f16 f16 @v3 c+16 @v2 f16 @v4 o4 g16 @v2 o5 f16 @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 @v2 f16 f16 f16
+  4: c8 r8 b8 c8 c8 c8 b8 r8
+
+bar 6
+  0: o4 f8 e8 d8 f8 a4 >d4
+  1: o4 [d8 f8]4
+  2: o2 d8 d8 d8 d8 d8 d8 d8 d8
+  3: @v4 o4 g16 @v2 o5 f16 f16 v5 @v3 c+16 v9 @v3 c+16 @v2 f16 @v4 o4 g16 @v2 o5 f16 @v4 o4 g16 @v2 o5 f16 f16 v5 @v3 c+16 v9 @v3 c+16 @v2 f16 v5 @v3 c+16 v9 @v2 f16
+  4: c8 r8 b8 c8 c8 c8 b8 r8
+
+bar 7
+  0: o5 c8 <a8 f8 a8 >c8 d8 d+8 e8
+  1: o4 [c8 f8]4
+  2: o2 f8 f8 f8 f8 f8 f8 f8 f8
+  3: @v4 o4 g16 @v2 o5 f16 f16 v5 @v3 c+16 v9 @v3 c+16 @v2 f16 @v4 o4 g16 @v2 o5 f16 @v4 o4 g16 @v2 o5 f16 f16 v5 @v3 c+16 v9 @v3 c+16 @v2 f16 v5 @v3 c+16 v9 @v2 f16
+  4: c8 r8 b8 c8 c8 c8 b8 r8
+
+bar 8
+  0: o5 e4 d+4 d4 c+4
+  1: o4 [d8 g+8]4
+  2: o2 e8 e8 e8 e8 e8 e8 f+8 g+8
+  3: @v4 o4 g16 @v2 o5 f16 f16 f16 @v3 c+16 @v2 f16 @v4 o4 g16 @v2 o5 f16 @v3 c+16 c+16 c+16 c+16 c+16 c+16 c+16 c+16
+  4: c8 r8 d8 c8 b16 b16 b16 b16 b16 b16 b16 b16

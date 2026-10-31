@@ -1,0 +1,122 @@
+title WITCH'S TREAT MANSION
+tempo 120
+mode famicom
+instrument 0 lead @2 q7 @v0 ~12,9,22
+instrument 1 harpsi @0 q5 @v7
+instrument 2 detune @2 q7 @v0 ~12,9,22
+part 0 v12
+part 1 v8
+part 2 q7
+part 3
+
+bar 1 I
+  0: @i0 v12 @p8 o5 d2 @p c+6 d12 <a+4
+  1: @i1 D0 o3 g12 g12 a+12 g12 r12 g12 >c+12 r12 d12 f12 r12 d12
+  2: q6 o2 g12 g12 a+12 g12 r12 g12 >c+12 r12 d12 f12 r12 d12
+  3: @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12 @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12
+  4: c6 c12 d4 c6 c12 d4
+
+bar 2
+  0: o4 @p8 a2. @p r4
+  1: o3 g12 g12 a+12 g12 r12 g12 >c12 r12 <a+12 a12 r12 f+12
+  2: o2 g12 g12 a+12 g12 r12 g12 >c12 r12 <a+12 a12 r12 f+12
+  3: @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12 @v4 o4 g12 r12 g12 @v3 o5 c+12 c+12 c+12
+  4: c6 c12 d4 c6 c12 d12 d12 d12
+
+bar 3 A
+  0: o4 g4 a+4 @p8 >d2 @p
+  1: o3 g12 g12 a+12 g12 r12 g12 >c+12 r12 d12 f12 r12 d12
+  2: o2 g12 g12 a+12 g12 r12 g12 >c+12 r12 d12 f12 r12 d12
+  3: @v21 o5 c12 r12 @v4 o4 g12 @v3 o5 c+12 r12 @v2 o5 f12 @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12
+  4: c6 c12 d4 c6 c12 d4
+
+bar 4
+  0: o5 c6 <a+12 a6 a+12 @p8 >c2 @p
+  1: o3 f12 f12 a12 f12 r12 f12 b12 r12 >c12 d+12 r12 c12
+  2: o2 f12 f12 a12 f12 r12 f12 b12 r12 >c12 d+12 r12 c12
+  3: @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12 @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12
+  4: c6 c12 d4 c6 c12 d4
+
+bar 5
+  0: o5 d+4 d6 c12 @p8 <a+2 @p
+  1: o3 d+12 d+12 g12 d+12 r12 d+12 a12 r12 a+12 >c+12 r12 <a+12
+  2: o2 d+12 d+12 g12 d+12 r12 d+12 a12 r12 a+12 >c+12 r12 <a+12
+  3: @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12 @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12
+  4: c6 c12 d4 c6 c12 d4
+
+bar 6
+  0: o4 a+6 a12 g6 a12 @p8 f+2 @p
+  1: o3 d12 d12 f+12 d12 r12 d12 g+12 r12 a12 >c12 r12 <a12
+  2: o2 d12 d12 f+12 d12 r12 d12 g+12 r12 a12 >c12 r12 <a12
+  3: @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12 @v4 o4 g12 r12 g12 @v3 o5 c+12 c+12 c+12
+  4: c6 c12 d4 c6 c12 d12 d12 d12
+
+bar 7
+  0: o4 g4 a+4 @p8 >d2 @p
+  1: o3 g12 g12 a+12 g12 r12 g12 >c+12 r12 d12 f12 r12 d12
+  2: o2 g12 g12 a+12 g12 r12 g12 >c+12 r12 d12 f12 r12 d12
+  3: @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12 @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12
+  4: c6 c12 d4 c6 c12 d4
+
+bar 8
+  0: o5 g6 d+12 f6 d12 @p8 c2 @p
+  1: o3 c12 c12 d+12 c12 r12 c12 f+12 r12 g12 a+12 r12 g12
+  2: o2 c12 c12 d+12 c12 r12 c12 f+12 r12 g12 a+12 r12 g12
+  3: @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12 @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12
+  4: c6 c12 d4 c6 c12 d4
+
+bar 9
+  0: o5 c6 <a12 a+6 g12 f+4 a4
+  1: o3 d12 d12 f+12 d12 r12 d12 g+12 r12 a12 >c12 r12 <a12
+  2: o2 d12 d12 f+12 d12 r12 d12 g+12 r12 a12 >c12 r12 <a12
+  3: @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12 @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12
+  4: c6 c12 d4 c6 c12 d4
+
+bar 10
+  0: o4 @p8 a2. @p r4
+  1: o3 d12 d12 f+12 d12 r12 d12 a12 a+12 b12 >c12 c+12 d12
+  2: o2 d12 d12 f+12 d12 r12 d12 a12 a+12 b12 >c12 c+12 d12
+  3: @v4 o4 g12 r12 g12 @v3 o5 c+12 r12 @v2 o5 f12 @v3 o5 c+12 c+12 c+12 c+12 c+12 c+12
+  4: c6 c12 d4 d12 d12 d12 b12 b12 b12
+
+bar 11 B
+  0: o5 a+4 @p8 a2 @p g4
+  1: @i2 D3 o5 a+4 @p8 a2 @p g4
+  2: o2 d+12 d+12 g12 d+12 r12 d+12 a12 r12 a+12 >c+12 r12 <a+12
+  3: @v21 o5 c12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 @v2 o5 f12 f12 @v4 o4 g12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 @v2 o5 f12 f12
+  4: c6 c12 b4 c6 c12 b4
+
+bar 12
+  0: o5 a4 @p8 g2 @p d4
+  1: o5 a4 @p8 g2 @p d4
+  2: o2 f12 f12 a12 f12 r12 f12 b12 r12 >c12 d+12 r12 c12
+  3: @v4 o4 g12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 @v2 o5 f12 f12 @v4 o4 g12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 @v2 o5 f12 f12
+  4: c6 c12 b4 c6 c12 b4
+
+bar 13
+  0: o5 g4 @p8 f+2 @p e4
+  1: o5 g4 @p8 f+2 @p e4
+  2: o2 d12 d12 f+12 d12 r12 d12 g+12 r12 a12 >c12 r12 <a12
+  3: @v4 o4 g12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 @v2 o5 f12 f12 @v4 o4 g12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 @v2 o5 f12 f12
+  4: c6 c12 b4 c6 c12 b4
+
+bar 14
+  0: o5 d6 c12 <a+6 a12 @p8 g2 @p
+  1: o5 d6 c12 <a+6 a12 @p8 g2 @p
+  2: o2 g12 g12 a+12 g12 r12 g12 >c+12 r12 d12 f12 r12 d12
+  3: @v4 o4 g12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 @v2 o5 f12 f12 @v4 o4 g12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 c+12 c+12
+  4: c6 c12 b4 c6 c12 b12 b12 b12
+
+bar 15
+  0: o5 d+4 @p8 d2 @p c4
+  1: o5 d+4 @p8 d2 @p c4
+  2: o2 c12 c12 d+12 c12 r12 c12 f+12 r12 g12 a+12 r12 g12
+  3: @v4 o4 g12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 @v2 o5 f12 f12 @v4 o4 g12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 @v2 o5 f12 f12
+  4: c6 c12 b4 c6 c12 b4
+
+bar 16
+  0: o4 a6 a+12 >c6 <a+12 @p8 a2 @p
+  1: o4 a6 a+12 >c6 <a+12 @p8 a2 @p
+  2: o2 d12 d12 f+12 d12 r12 d12 g+12 r12 a12 >c12 r12 <a12
+  3: @v4 o4 g12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 @v2 o5 f12 f12 @v4 o4 g12 @v2 o5 f12 @v4 o4 g12 @v3 o5 c+12 c+12 c+12
+  4: c6 c12 b4 c6 c12 b12 b12 b12

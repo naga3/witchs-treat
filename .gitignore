@@ -1,0 +1,8 @@
+# ローカルの引き継ぎ・作業ファイル
+/HANDOFF.md
+node_modules/
+.work/
+sessions/
+.DS_Store
+.env
+.env.*
